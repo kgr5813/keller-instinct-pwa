@@ -1,0 +1,5 @@
+# Database — lives outside the repo
+keller_instinct.db
+
+# OurGroceries credentials
+../groceries-config.json

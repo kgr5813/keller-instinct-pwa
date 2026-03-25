@@ -1,0 +1,25 @@
+<svg width="60" height="60.88" viewBox="0 0 680 690" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <radialGradient id="eyeglow" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#ffaa88"/>
+    <stop offset="20%" stop-color="#ff4422"/>
+    <stop offset="55%" stop-color="#990000"/>
+    <stop offset="100%" stop-color="#0a0a0f" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+
+<rect width="680" height="680" rx="80" fill="#0a0a0f" style="fill:rgb(10, 10, 15);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+<rect x="170" y="0" width="340" height="500" fill="#e2e2e2" style="fill:rgb(226, 226, 226);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+<line x1="227" y1="0" x2="227" y2="500" stroke="#aaaaaa" stroke-width="5" style="fill:rgb(0, 0, 0);stroke:rgb(170, 170, 170);color:rgb(0, 0, 0);stroke-width:5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<line x1="283" y1="0" x2="283" y2="500" stroke="#aaaaaa" stroke-width="5" style="fill:rgb(0, 0, 0);stroke:rgb(170, 170, 170);color:rgb(0, 0, 0);stroke-width:5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<line x1="340" y1="0" x2="340" y2="500" stroke="#aaaaaa" stroke-width="5" style="fill:rgb(0, 0, 0);stroke:rgb(170, 170, 170);color:rgb(0, 0, 0);stroke-width:5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<line x1="397" y1="0" x2="397" y2="500" stroke="#aaaaaa" stroke-width="5" style="fill:rgb(0, 0, 0);stroke:rgb(170, 170, 170);color:rgb(0, 0, 0);stroke-width:5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<line x1="453" y1="0" x2="453" y2="500" stroke="#aaaaaa" stroke-width="5" style="fill:rgb(0, 0, 0);stroke:rgb(170, 170, 170);color:rgb(0, 0, 0);stroke-width:5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+<rect x="165" y="400" width="350" height="100" rx="6" fill="#e8e8e8" style="fill:rgb(232, 232, 232);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<line x1="165" y1="400" x2="515" y2="400" stroke="#aaaaaa" stroke-width="5" style="fill:rgb(0, 0, 0);stroke:rgb(170, 170, 170);color:rgb(0, 0, 0);stroke-width:5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+<circle cx="422" cy="568" r="62" fill="url(#eyeglow)" style="stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+</svg>
