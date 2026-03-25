@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import ast, sys; ast.parse\\(open\\(''main.py''\\).read\\(\\)\\); print\\(''main.py OK''\\)\")",
+      "Bash(python -c \"import ast; ast.parse\\(open\\(''init_db.py''\\).read\\(\\)\\); print\\(''init_db.py OK''\\)\")",
+      "Bash(python migrate_time_per_day.py)",
+      "Bash(curl:*)",
+      "Bash(taskkill /F /IM python.exe)",
+      "Bash(cmd /c \"taskkill /F /IM python.exe\" 2>&1)",
+      "Bash(python -c \"import sys,json; d=json.load\\(sys.stdin\\); print\\(list\\(d[''''paths''''].keys\\(\\)\\)\\)\")",
+      "Bash(python -c \"import main; print\\(''ok''\\)\")",
+      "Bash(cmd /c \"taskkill /F /IM python.exe\")",
+      "Bash(python -c \"import main; print\\(''ok''\\); print\\([r.path for r in main.app.routes if hasattr\\(r,''path''\\) and ''import'' in r.path]\\)\")"
+    ]
+  }
+}
