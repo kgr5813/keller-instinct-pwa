@@ -2,159 +2,186 @@
   "week_start": "2026-03-28",
   "days": {
     "2026-03-28": {
-      "name": "Braised lamb shoulder with white beans",
-      "cuisine": "French",
-      "time_min": 120,
-      "source": "NYT Cooking",
+      "name": "Fläskpannkaka med grønnkål, eple og brunet smør",
+      "cuisine": "Scandinavian",
+      "time_min": 40,
+      "source": "Stefan Ekengren, Köket.se",
       "source_url": null,
       "ingredients": [
-        { "name": "Lamb shoulder, bone-in", "quantity": "1.2", "unit": "kg" },
-        { "name": "White beans (cannellini), dried", "quantity": "250", "unit": "g" },
-        { "name": "Carrot", "quantity": "2", "unit": "" },
-        { "name": "Celery stalks", "quantity": "2", "unit": "" },
-        { "name": "Fresh rosemary", "quantity": "2", "unit": "sprigs" },
-        { "name": "Fresh thyme", "quantity": "4", "unit": "sprigs" },
-        { "name": "Dry white wine", "quantity": "200", "unit": "ml" },
-        { "name": "Chicken stock", "quantity": "400", "unit": "ml" }
+        { "name": "Egg", "quantity": "4", "unit": "stk" },
+        { "name": "Hvetemel", "quantity": "4", "unit": "dl" },
+        { "name": "Melk", "quantity": "8", "unit": "dl" },
+        { "name": "Stekeflesk", "quantity": "250", "unit": "g" },
+        { "name": "Røde epler", "quantity": "2", "unit": "stk" },
+        { "name": "Grønnkål", "quantity": "4", "unit": "blader" },
+        { "name": "Smør", "quantity": "60", "unit": "g" },
+        { "name": "Frosne tyttebær", "quantity": "3", "unit": "dl" },
+        { "name": "Sukker", "quantity": "1.5", "unit": "dl" }
       ],
       "steps": [
-        { "instruction": "Soak beans overnight in cold water. Drain before using." },
-        { "instruction": "Season lamb generously with salt and pepper. Brown on all sides in a heavy pot over high heat, then set aside." },
-        { "instruction": "Soften carrot and celery in the same pot for 5 minutes. Add wine and reduce by half." },
-        { "instruction": "Return lamb to the pot. Add beans, stock, and herbs. Liquid should come halfway up the lamb." },
-        { "instruction": "Cover and braise in a 160°C oven for 2–2.5 hours until meat is falling off the bone." },
-        { "instruction": "Rest 10 minutes before serving. Taste beans and adjust seasoning." }
+        { "instruction": "Rør tyttebær og sukker, la stå i romtemperatur." },
+        { "instruction": "Sett ovnen på 200°C." },
+        { "instruction": "Visp egg, mel og melk til en jevn røre." },
+        { "instruction": "Stek flesk i ildfast form, hell røren over og stek i ovnen i 25–30 minutter til pankakan er gyllen og stivnet." },
+        { "instruction": "Brun smøret i en panne, fres epleskiver og grønnkål til eplene er myke og grønnkålen er litt sprø." },
+        { "instruction": "Server pannekaken med eplefres og tyttebærmos ved siden av." }
       ],
-      "notes": "Can be started the day before — reheat gently on the stovetop."
+      "notes": "Tyttebærene trenger minst 30 minutter med sukker for å bli myke — start med dem."
     },
     "2026-03-29": {
-      "name": "Roast chicken with tarragon butter",
-      "cuisine": "French",
-      "time_min": 90,
-      "source": "Repertoire",
-      "source_url": null,
+      "name": "Caramelised Cabbage Risotto",
+      "cuisine": "Italian",
+      "time_min": 45,
+      "source": "Smitten Kitchen",
+      "source_url": "https://smittenkitchen.com/2022/02/caramelized-cabbage-risotto/",
       "ingredients": [
-        { "name": "Whole chicken", "quantity": "1.5", "unit": "kg" },
-        { "name": "Butter, softened", "quantity": "60", "unit": "g" },
-        { "name": "Fresh tarragon, chopped", "quantity": "2", "unit": "tbsp" },
-        { "name": "Lemon", "quantity": "1", "unit": "" },
-        { "name": "Garlic", "quantity": "4", "unit": "cloves" }
+        { "name": "Kål", "quantity": "500", "unit": "g" },
+        { "name": "Løk", "quantity": "1", "unit": "stk" },
+        { "name": "Risottoris", "quantity": "300", "unit": "g" },
+        { "name": "Tørr hvitvin", "quantity": "150", "unit": "ml" },
+        { "name": "Grønnsaks- eller kyllingkraft", "quantity": "1.2", "unit": "l" },
+        { "name": "Parmesan", "quantity": "60", "unit": "g" },
+        { "name": "Smør", "quantity": "30", "unit": "g" },
+        { "name": "Olivenolje", "quantity": "", "unit": "" }
       ],
       "steps": [
-        { "instruction": "Combine butter, tarragon, lemon zest, salt and pepper. Loosen the skin of the chicken and push most of the butter under it." },
-        { "instruction": "Stuff the cavity with lemon halves and garlic. Rub remaining butter over the outside." },
-        { "instruction": "Roast at 220°C for 20 minutes, then reduce to 180°C for a further 50–60 minutes until juices run clear." },
-        { "instruction": "Rest 15 minutes before carving." }
+        { "instruction": "Varm olje i en bred, tung panne på middels høy varme. Tilsett kål og løk med salt. Stek under jevnlig omrøring i 25–30 minutter til dypt karamellisert og gyllen. Sett til side en håndfull til pynt." },
+        { "instruction": "Varm litt olje i en kasserolle. Tilsett risen og rist i 1–2 minutter til kantene er gjennomskinnelige." },
+        { "instruction": "Tilsett vinen og rør til absorbert. Tilsett varm kraft én øse om gangen, rør konstant, i 18–20 minutter til risen er kremet og akkurat mør." },
+        { "instruction": "Rør inn mesteparten av kålen, smøret og halvparten av parmesanen. Smak til og juster konsistens med mer kraft." },
+        { "instruction": "Server toppet med reservert kål og resten av parmesanen." }
       ],
-      "notes": "Season the bird the night before if possible."
+      "notes": "Kålen er det viktigste — ikke stress karamelliseringen."
     },
     "2026-03-30": {
-      "name": "Spaghetti carbonara",
-      "cuisine": "Italian",
-      "time_min": 25,
-      "source": "Repertoire",
+      "name": "Kinanudler",
+      "cuisine": "Asian",
+      "time_min": 30,
+      "source": "Woks of Life (tilpasset)",
       "source_url": null,
       "ingredients": [
-        { "name": "Spaghetti", "quantity": "400", "unit": "g" },
-        { "name": "Guanciale or pancetta", "quantity": "150", "unit": "g" },
-        { "name": "Eggs", "quantity": "3", "unit": "" },
-        { "name": "Egg yolks", "quantity": "2", "unit": "" },
-        { "name": "Pecorino romano, finely grated", "quantity": "80", "unit": "g" },
-        { "name": "Parmesan, finely grated", "quantity": "40", "unit": "g" }
+        { "name": "Kinesiske hvite nudler", "quantity": "450", "unit": "g" },
+        { "name": "Vårløk", "quantity": "8", "unit": "stk" },
+        { "name": "Nøytral olje", "quantity": "80", "unit": "ml" },
+        { "name": "Mørk soyasaus", "quantity": "3", "unit": "ss" },
+        { "name": "Lys soyasaus", "quantity": "3", "unit": "ss" },
+        { "name": "Gulrot", "quantity": "1", "unit": "stk" },
+        { "name": "Sopp", "quantity": "100", "unit": "g" },
+        { "name": "Fersk spinat", "quantity": "2", "unit": "never" },
+        { "name": "Egg", "quantity": "1-2 per person", "unit": "" },
+        { "name": "Sesamolje", "quantity": "noen", "unit": "dråper" }
       ],
       "steps": [
-        { "instruction": "Cook guanciale in a cold pan over medium heat until fat renders and edges crisp. Remove from heat." },
-        { "instruction": "Whisk eggs, yolks, and cheese together with a generous amount of black pepper." },
-        { "instruction": "Cook pasta in well-salted water. Reserve 2 cups pasta water before draining." },
-        { "instruction": "Add hot pasta to the pan with guanciale (off heat). Add egg mixture and toss vigorously, adding pasta water a splash at a time until sauce coats each strand." },
-        { "instruction": "Serve immediately with extra cheese and pepper." }
-      ],
-      "notes": "No cream. The starch in the pasta water is what makes the sauce silky."
+        { "instruction": "Fres vårløk sakte i olje til gyllen og sprø. Ta ut og sett til side." },
+        { "instruction": "Tilsett soyasauser og sukker i oljen, putre på lav varme i 2 minutter." },
+        { "instruction": "Wok gulrot og sopp på høy varme til gjennomstekt. Tilsett spinat og rør til visnet." },
+        { "instruction": "Kok nudler etter pakningsanvisning. Vend i sausen sammen med grønnsakene." },
+        { "instruction": "Drypp over sesamolje. Server toppet med stekt vårløk og speilegg." }
+      ]
     },
     "2026-03-31": {
-      "name": "Miso-glazed cod with bok choy",
-      "cuisine": "Japanese",
-      "time_min": 30,
-      "source": "Repertoire",
-      "source_url": null,
-      "ingredients": [
-        { "name": "Cod fillets", "quantity": "4", "unit": "" },
-        { "name": "White miso", "quantity": "3", "unit": "tbsp" },
-        { "name": "Mirin", "quantity": "2", "unit": "tbsp" },
-        { "name": "Sake or dry white wine", "quantity": "2", "unit": "tbsp" },
-        { "name": "Bok choy, halved", "quantity": "4", "unit": "small" },
-        { "name": "Sesame seeds", "quantity": "1", "unit": "tbsp" }
-      ],
-      "steps": [
-        { "instruction": "Whisk miso, mirin, and sake together. Marinate cod for at least 30 minutes (overnight is better)." },
-        { "instruction": "Wipe most of the marinade off the fish. Broil or pan-sear on high heat for 3–4 minutes per side until caramelised." },
-        { "instruction": "Meanwhile, blanch or steam bok choy until just tender, 2–3 minutes." },
-        { "instruction": "Serve fish over bok choy. Scatter sesame seeds." }
-      ],
-      "notes": "Marinate the night before — takes 2 minutes prep and makes it noticeably better."
-    },
-    "2026-04-01": {
-      "name": "Thai basil chicken (Pad Kra Pao)",
-      "cuisine": "Thai",
-      "time_min": 25,
-      "source": "Repertoire",
-      "source_url": null,
-      "ingredients": [
-        { "name": "Chicken thighs, minced or finely chopped", "quantity": "600", "unit": "g" },
-        { "name": "Thai basil leaves", "quantity": "1", "unit": "large bunch" },
-        { "name": "Red chilli, sliced (mild for kids)", "quantity": "1", "unit": "" },
-        { "name": "Oyster sauce", "quantity": "2", "unit": "tbsp" },
-        { "name": "Jasmine rice, cooked", "quantity": "300", "unit": "g dry" }
-      ],
-      "steps": [
-        { "instruction": "Stir-fry garlic in a very hot wok until fragrant, 30 seconds." },
-        { "instruction": "Add chicken and cook on high heat, breaking it apart, until cooked through and starting to caramelise, about 5 minutes." },
-        { "instruction": "Add chilli, soy sauce, oyster sauce, and a splash of water. Toss." },
-        { "instruction": "Off heat, stir in basil until just wilted. Serve over rice with a fried egg on top if liked." }
-      ]
-    },
-    "2026-04-02": {
-      "name": "Shakshuka with feta",
+      "name": "Braised Eggs with Leeks and Za'atar",
       "cuisine": "Middle Eastern",
       "time_min": 30,
-      "source": "Repertoire",
-      "source_url": null,
+      "source": "The Guardian (Yotam Ottolenghi)",
+      "source_url": "https://www.theguardian.com/food/2017/sep/30/yotam-ottolenghi-egg-recipes",
       "ingredients": [
-        { "name": "Crushed tomatoes", "quantity": "2", "unit": "x 400g tins" },
-        { "name": "Red peppers, diced", "quantity": "2", "unit": "" },
-        { "name": "Eggs", "quantity": "6", "unit": "" },
-        { "name": "Feta cheese, crumbled", "quantity": "100", "unit": "g" },
-        { "name": "Cumin, ground", "quantity": "1", "unit": "tsp" },
-        { "name": "Smoked paprika", "quantity": "1", "unit": "tsp" },
-        { "name": "Good crusty bread", "quantity": "", "unit": "to serve" }
+        { "name": "Purre", "quantity": "2", "unit": "stk" },
+        { "name": "Egg", "quantity": "5", "unit": "stk" },
+        { "name": "Za'atar", "quantity": "2", "unit": "ss" },
+        { "name": "Feta", "quantity": "80", "unit": "g" },
+        { "name": "Smør", "quantity": "30", "unit": "g" },
+        { "name": "Sitron", "quantity": "0.5", "unit": "stk" },
+        { "name": "Godt brød", "quantity": "", "unit": "til servering" }
       ],
       "steps": [
-        { "instruction": "Soften onion and peppers in olive oil over medium heat, 8 minutes. Add spices and cook 1 minute more." },
-        { "instruction": "Pour in tomatoes, season well, and simmer 10 minutes until thickened." },
-        { "instruction": "Make wells in the sauce and crack in the eggs. Cover and cook over low heat until whites are set but yolks still runny, 5–7 minutes." },
-        { "instruction": "Scatter feta and fresh herbs. Eat straight from the pan with bread." }
-      ]
+        { "instruction": "Smelt smør og olje i en vid panne på middels varme. Tilsett purre med salt og stek under lokk i 10–12 minutter til mykt og søtt." },
+        { "instruction": "Rør inn za'atar og la det frese i 1 minutt." },
+        { "instruction": "Lag fordypninger og knekk ett egg i hver. Sett på lokk og kok på lav varme i 4–5 minutter til hvitene er stivnet men plommene rennende." },
+        { "instruction": "Dryss over smuldret feta og press over sitron. Server rett fra pannen med godt brød." }
+      ],
+      "notes": "Za'atar fås i de fleste innvandrerbutikker."
     },
-    "2026-04-03": {
-      "name": "Grilled salmon with lentils and salsa verde",
-      "cuisine": "French",
+    "2026-04-01": {
+      "name": "Kikertgryte med kokos og tomat",
+      "cuisine": "Indian",
       "time_min": 40,
       "source": "Repertoire",
       "source_url": null,
       "ingredients": [
-        { "name": "Salmon fillets", "quantity": "4", "unit": "" },
-        { "name": "Puy lentils", "quantity": "250", "unit": "g" },
-        { "name": "Flat-leaf parsley", "quantity": "1", "unit": "bunch" },
-        { "name": "Capers", "quantity": "2", "unit": "tbsp" },
-        { "name": "Dijon mustard", "quantity": "1", "unit": "tsp" },
-        { "name": "Lemon", "quantity": "1", "unit": "" }
+        { "name": "Kikerter", "quantity": "2", "unit": "bokser" },
+        { "name": "Kokosmelk", "quantity": "1", "unit": "boks" },
+        { "name": "Hermetiske tomater", "quantity": "1", "unit": "boks" },
+        { "name": "Løk", "quantity": "1", "unit": "stk" },
+        { "name": "Hvitløk", "quantity": "3", "unit": "fedd" },
+        { "name": "Fersk ingefær", "quantity": "2", "unit": "cm" },
+        { "name": "Karri", "quantity": "2", "unit": "ts" },
+        { "name": "Gurkemeie", "quantity": "1", "unit": "ts" },
+        { "name": "Spinat", "quantity": "2", "unit": "never" },
+        { "name": "Basmatiris", "quantity": "", "unit": "til servering" }
       ],
       "steps": [
-        { "instruction": "Simmer lentils in water with a bay leaf until just tender, 20–25 minutes. Drain and season." },
-        { "instruction": "Blend parsley, capers, mustard, lemon juice, and olive oil to a rough salsa verde. Season." },
-        { "instruction": "Season salmon and cook skin-side down in a hot pan for 4 minutes until skin is crisp. Flip and cook 1 minute more." },
-        { "instruction": "Serve salmon on lentils, salsa verde spooned over." }
+        { "instruction": "Stek løk, hvitløk og ingefær i olje til mykt og gyllenbrunt, ca. 8 minutter." },
+        { "instruction": "Tilsett karri og gurkemeie, rør i 1 minutt." },
+        { "instruction": "Ha i hermetiske tomater, kokosmelk og kikerter. Putre på lav varme i 20 minutter." },
+        { "instruction": "Tilsett spinat de siste 2 minuttene til det er visnet. Smak til med salt. Server med ris." }
       ]
+    },
+    "2026-04-02": {
+      "name": "Fiskeboller i gul saus",
+      "cuisine": "Scandinavian",
+      "time_min": 45,
+      "source": "Repertoire",
+      "source_url": null,
+      "ingredients": [
+        { "name": "Fiskeboller", "quantity": "1", "unit": "boks" },
+        { "name": "Melk", "quantity": "6", "unit": "dl" },
+        { "name": "Poteter", "quantity": "500", "unit": "g" },
+        { "name": "Gulrøtter", "quantity": "2", "unit": "stk" },
+        { "name": "Erter eller grønnkål", "quantity": "1", "unit": "neve" },
+        { "name": "Garam masala eller karri", "quantity": "1", "unit": "ss" },
+        { "name": "Gurkemeie", "quantity": "1", "unit": "ts" },
+        { "name": "Løk", "quantity": "0.5", "unit": "stk" }
+      ],
+      "steps": [
+        { "instruction": "Kok poteter og gulrøtter i saltet vann til møre, ca. 15 minutter." },
+        { "instruction": "Stek løk i smør til myk og gyllen. Tilsett krydder og rør i 1 minutt." },
+        { "instruction": "Hell i melk litt etter litt under konstant omrøring til du har en jevn, kremete saus. La putre i 5 minutter." },
+        { "instruction": "Tilsett fiskeboller og varm forsiktig gjennom. Tilsett erter eller grønnkål de siste 2 minuttene." },
+        { "instruction": "Server med de kokte potetene og gulrøttene." }
+      ]
+    },
+    "2026-04-03": {
+      "name": "Fredagstaco med lam og tørkede chilier",
+      "cuisine": "Mexican",
+      "time_min": 30,
+      "source": "En Grønsberg-klassiker",
+      "source_url": null,
+      "ingredients": [
+        { "name": "Lammekjøttdeig", "quantity": "400", "unit": "g" },
+        { "name": "Spisspaprika", "quantity": "2", "unit": "stk" },
+        { "name": "Svarte bønner", "quantity": "1", "unit": "boks" },
+        { "name": "Tørkede chilier (guajillo/ancho/pasilla)", "quantity": "1-3", "unit": "stk" },
+        { "name": "Sjalottløk", "quantity": "1", "unit": "stk" },
+        { "name": "Hvitløk", "quantity": "3", "unit": "fedd" },
+        { "name": "Rødløk", "quantity": "0.25", "unit": "stk" },
+        { "name": "Gulrot, revet", "quantity": "1-2", "unit": "stk" },
+        { "name": "Lime", "quantity": "1", "unit": "stk" },
+        { "name": "Tortillalefser", "quantity": "1", "unit": "pakke" },
+        { "name": "Rømme", "quantity": "", "unit": "til servering" },
+        { "name": "Revet cheddar", "quantity": "", "unit": "til servering" },
+        { "name": "Agurk", "quantity": "", "unit": "til servering" },
+        { "name": "Tomat", "quantity": "", "unit": "til servering" }
+      ],
+      "steps": [
+        { "instruction": "Bland rødløk, revet gulrot, limesaft og salt. Sett til side." },
+        { "instruction": "Stek paprika på høyest mulig varme til brunet og litt svidd. Sett til side." },
+        { "instruction": "Del tørkede chilier åpne, fjern frøene. Rist eventuelt kort i tørr panne. Legg i bløt i varmt vann i 10 minutter, hakk eller blend fint." },
+        { "instruction": "Brun lammekjøttdeig på høy varme. Tilsett sjalottløk og hvitløk, stek til mykt. Tilsett spisskummen, oregano og paprikapulver." },
+        { "instruction": "Tilsett svarte bønner, chili og stekt paprika. Putre 10–15 minutter. Smak til." },
+        { "instruction": "Server med varme tortillalefser og tilbehør i separate skåler." }
+      ],
+      "notes": "Start alltid med råkosten — den blir bedre jo lenger den står."
     }
   }
 }
