@@ -222,18 +222,18 @@ body {
 .timer-section {
   background: var(--surface);
   border-radius: var(--radius-lg);
-  padding: 20px;
-  margin-bottom: 24px;
+  padding: 12px 16px;
+  margin-bottom: 16px;
   text-align: center;
 }
 
 .timer-display {
-  font-size: 52px;
+  font-size: 36px;
   font-weight: 200;
   font-variant-numeric: tabular-nums;
   letter-spacing: 2px;
   color: var(--text);
-  margin-bottom: 16px;
+  margin-bottom: 10px;
   font-family: 'SF Mono', 'Menlo', monospace;
 }
 
@@ -365,6 +365,40 @@ body {
 .fb-time { font-size: 14px; color: var(--text-muted); margin-bottom: 6px; }
 .fb-time strong { color: var(--text); }
 .fb-notes { font-size: 15px; line-height: 1.5; margin-bottom: 12px; }
+
+/* Rating */
+.rating-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 14px;
+}
+.rating-label { font-size: 14px; color: var(--text-muted); flex: 1; }
+.rating-selector { display: flex; gap: 6px; }
+.rating-btn {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: 2px solid var(--border);
+  background: var(--surface);
+  color: var(--text-muted);
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: border-color 0.15s, background 0.15s, color 0.15s;
+  -webkit-tap-highlight-color: transparent;
+}
+.rating-btn.selected {
+  border-color: var(--primary);
+  background: var(--primary);
+  color: #fff;
+}
+.rating-hint {
+  font-size: 11px;
+  color: var(--text-dim);
+  margin-top: -8px;
+  margin-bottom: 14px;
+}
 
 /* ================================================================
    Week view

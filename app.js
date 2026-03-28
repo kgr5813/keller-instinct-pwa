@@ -23,6 +23,7 @@ const state = {
   view:        'today',
   recipeDate:  null,
   swapFrom:    null,
+  draftRating: null,  // rating being selected in the open feedback form
   timer: {
     running:    false,
     elapsed:    0,      // seconds
@@ -253,14 +254,27 @@ function renderRecipeForDate(date) {
     ? `<a class="source-link" href="${esc(recipe.source_url)}" target="_blank" rel="noopener">${esc(recipe.source || 'Source')} ↗</a>`
     : recipe.source ? `<span class="source-text">${esc(recipe.source)}</span>` : '';
 
-  const hasFeedback = fb.notes || fb.actual_time_min;
+  // Initialize draft rating from existing feedback, then fall back to recipe's DB rating
+  state.draftRating = fb.rating != null ? fb.rating : (recipe.rating != null ? recipe.rating : null);
+
+  const ratingBtns = [0, 1, 2, 3, 4].map(v =>
+    `<button class="rating-btn${state.draftRating === v ? ' selected' : ''}" onclick="selectRating(${v})">${v}</button>`
+  ).join('');
+
+  const hasFeedback = fb.notes || fb.actual_time_min || fb.rating != null;
   const feedbackHtml = hasFeedback
     ? `<div class="existing-feedback">
+        ${fb.rating != null ? `<p class="fb-time">Frequency: <strong>${fb.rating}/4 times per month</strong></p>` : ''}
         ${fb.actual_time_min ? `<p class="fb-time">Actual time: <strong>${fb.actual_time_min} min</strong></p>` : ''}
         ${fb.notes ? `<p class="fb-notes">${esc(fb.notes)}</p>` : ''}
         <button class="btn btn-secondary btn-sm" onclick="editFeedback('${date}')">Edit</button>
        </div>`
-    : `<textarea class="feedback-input" id="feedback-input" placeholder="How did it go? Any notes for next time…" rows="3">${esc(fb.draft || '')}</textarea>
+    : `<div class="rating-row">
+         <span class="rating-label">Times per month (0–4)</span>
+         <div class="rating-selector" id="rating-selector">${ratingBtns}</div>
+       </div>
+       <p class="rating-hint">0 = never &nbsp;·&nbsp; 1 = rarely &nbsp;·&nbsp; 2 = monthly &nbsp;·&nbsp; 3 = bi-weekly &nbsp;·&nbsp; 4 = weekly</p>
+       <textarea class="feedback-input" id="feedback-input" placeholder="How did it go? Any notes for next time…" rows="3">${esc(fb.draft || '')}</textarea>
        <div class="feedback-time-row">
          <label class="feedback-time-label">Actual time (min)</label>
          <input class="feedback-time-input" id="actual-time-input" type="number" min="1" max="300"
@@ -356,6 +370,16 @@ function resetTimer() {
   state.timer.date    = null;
   const el = document.getElementById('timer-display');
   if (el) el.textContent = fmtTimer(0);
+}
+
+// ================================================================
+// Rating
+// ================================================================
+function selectRating(value) {
+  state.draftRating = value;
+  document.querySelectorAll('.rating-btn').forEach((btn, i) => {
+    btn.classList.toggle('selected', i === value);
+  });
 }
 
 // ================================================================
@@ -460,10 +484,11 @@ async function submitFeedback(date) {
   const notes      = document.getElementById('feedback-input')?.value?.trim() || '';
   const actualTime = parseInt(document.getElementById('actual-time-input')?.value) || null;
 
-  if (!notes && !actualTime) { toast('Add a note or time first'); return; }
+  if (!notes && !actualTime && state.draftRating === null) { toast('Add a rating, note, or time first'); return; }
 
   const entry = {
     recipe:          state.week?.days[date]?.name || '',
+    rating:          state.draftRating,
     actual_time_min: actualTime,
     notes,
     timestamp:       new Date().toISOString(),
