@@ -30,20 +30,20 @@
       "time_min": 45,
       "rating": null,
       "source": "NYT Cooking, by Melissa Clark",
-      "source_url": null,
+      "source_url": "https://cooking.nytimes.com/recipes/1016062-red-lentil-soup",
       "ingredients": [
         {"name": "røde linser", "quantity": "200", "unit": "g"},
         {"name": "gulrot", "quantity": "1", "unit": "stk"},
+        {"name": "sitron", "quantity": "0.5", "unit": "stk"},
         {"name": "fersk koriander", "quantity": "3", "unit": "ss"}
       ],
       "steps": [
-        {"instruction": "Stek løk og hvitløk i olivenolje til gyllen, omtrent 4 minutter."},
-        {"instruction": "Tilsett tomatpuré, spisskummen og en liten klype chili. Stek i 2 minutter."},
-        {"instruction": "Ha i kraft, ca 475 ml vann, linsene og gulrot kuttet i terninger. La det putre i 30 minutter til linsene er helt myke."},
-        {"instruction": "Blend halvparten av suppen til jevn, rør tilbake i gryten."},
-        {"instruction": "Press inn sitronsaft og topp med hakket koriander og et godt skvett olivenolje."}
-      ],
-      "notes": "Suppen din for uken. Bak betalingsmur på NYT Cooking."
+        {"instruction": "Varm oljen i en stor gryte på høy varme til den er varm og skimrer. Tilsett løk og hvitløk og stek til gyllenbrunt, ca. 4 minutter."},
+        {"instruction": "Rør inn tomatpuré, spisskummen, ¼ ts salt, ¼ ts sort pepper og chilipulveret. Stek videre i 2 minutter."},
+        {"instruction": "Tilsett kraft, 500 ml vann, linser og gulrot i terninger. Kok opp, legg på lokket på halv gjenge og skru ned til middels lav varme. La småkoke til linsene er myke, ca. 30 minutter. Smak til med salt."},
+        {"instruction": "Blend halvparten av suppen med en stavmikser eller blender, og rør den tilbake i gryten. Suppen skal være delvis jevn men fortsatt ha litt tekstur."},
+        {"instruction": "Varm suppen opp igjen om nødvendig. Rør inn sitronsaft og koriander. Server med en skvett god olivenolje og et dryss chilipulver."}
+      ]
     },
     "2026-04-06": {
       "name": "Pasta med tomatsaus og salsiccia",
@@ -70,7 +70,7 @@
       "time_min": 20,
       "rating": null,
       "source": "NYT Cooking, by Andy Baraghani",
-      "source_url": null,
+      "source_url": "https://cooking.nytimes.com/recipes/1017283-soy-butter-fish-and-peas",
       "ingredients": [
         {"name": "torsk (frossen, tint)", "quantity": "570", "unit": "g"},
         {"name": "sukkererter eller snøerter", "quantity": "340", "unit": "g"},
@@ -85,7 +85,7 @@
         {"instruction": "Ta av lokket og fordel ertene over fisken. Lokk på igjen, damp i 1–2 minutter til ertene er lysegrønne."},
         {"instruction": "Topp med fersk koriander og server rett fra pannen."}
       ],
-      "notes": "Bruk den frosne torsken fra fryseren. Bak betalingsmur på NYT Cooking."
+      "notes": "Bruk den frosne torsken fra fryseren."
     },
     "2026-04-08": {
       "name": "Pasta med flesk og grønne blader",
