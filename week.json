@@ -5,16 +5,17 @@
       "name": "Braised Eggs with Leeks and Za'atar",
       "cuisine": "middle eastern",
       "time_min": 30,
-      "rating": null,
       "source": "The Guardian (Yotam Ottolenghi)",
       "source_url": "https://www.theguardian.com/food/2019/mar/23/yotam-ottolenghi-eggs-recipes-braised-leek-zatar-baked-yoghurt-aubergine-egg-sandwich",
       "ingredients": [
-        {"name": "purre", "quantity": "2", "unit": "stk"},
+        {"name": "purre, i skiver", "quantity": "2", "unit": "stk"},
         {"name": "egg", "quantity": "5", "unit": "stk"},
         {"name": "za'atar", "quantity": "2", "unit": "ss"},
-        {"name": "feta", "quantity": "80", "unit": "g"},
+        {"name": "feta, smuldret", "quantity": "80", "unit": "g"},
+        {"name": "smør", "quantity": "30", "unit": "g"},
+        {"name": "olivenolje", "quantity": null, "unit": null},
         {"name": "sitron", "quantity": "0.5", "unit": "stk"},
-        {"name": "godt brød", "quantity": "1", "unit": "stk"}
+        {"name": "godt brød", "quantity": null, "unit": "til servering"}
       ],
       "steps": [
         {"instruction": "Smelt smør og en skvett olivenolje i en vid panne på middels varme. Legg i purren med en god klype salt, sett på lokk og la den steke mykt i 10–12 minutter. Den skal bli søt og smeltet, ikke brunet."},
@@ -28,10 +29,16 @@
       "name": "Red Lentil Soup",
       "cuisine": "other",
       "time_min": 45,
-      "rating": null,
       "source": "NYT Cooking, by Melissa Clark",
       "source_url": "https://cooking.nytimes.com/recipes/1016062-red-lentil-soup",
       "ingredients": [
+        {"name": "olivenolje", "quantity": "3", "unit": "ss"},
+        {"name": "løk", "quantity": "1", "unit": "stk"},
+        {"name": "hvitløk", "quantity": "2", "unit": "fedd"},
+        {"name": "tomatpuré", "quantity": "1", "unit": "ss"},
+        {"name": "spisskummen", "quantity": "1", "unit": "ts"},
+        {"name": "chilipulver eller cayennepepper", "quantity": "1", "unit": "klype"},
+        {"name": "kylling- eller grønnsakskraft", "quantity": "950", "unit": "ml"},
         {"name": "røde linser", "quantity": "200", "unit": "g"},
         {"name": "gulrot", "quantity": "1", "unit": "stk"},
         {"name": "sitron", "quantity": "0.5", "unit": "stk"},
@@ -49,13 +56,16 @@
       "name": "Pasta med tomatsaus og salsiccia",
       "cuisine": "italian",
       "time_min": 30,
-      "rating": null,
       "source": "Repertoire",
       "source_url": null,
       "ingredients": [
         {"name": "salsiccia", "quantity": "2", "unit": "stk"},
         {"name": "hermetiske tomater", "quantity": "1", "unit": "boks"},
-        {"name": "pasta (rigatoni)", "quantity": "400", "unit": "g"}
+        {"name": "pasta", "quantity": "400", "unit": "g"},
+        {"name": "hvitløk", "quantity": "2", "unit": "fedd"},
+        {"name": "løk", "quantity": "1", "unit": "stk"},
+        {"name": "chiliflak", "quantity": "1", "unit": "ts"},
+        {"name": "olivenolje", "quantity": "2", "unit": "ss"}
       ],
       "steps": [
         {"instruction": "Brun salsiccia i biter i olivenolje i en dyp panne."},
@@ -68,14 +78,15 @@
       "name": "Soy Butter Fish and Peas",
       "cuisine": "asian",
       "time_min": 20,
-      "rating": null,
       "source": "NYT Cooking, by Andy Baraghani",
       "source_url": "https://cooking.nytimes.com/recipes/1017283-soy-butter-fish-and-peas",
       "ingredients": [
-        {"name": "torsk (frossen, tint)", "quantity": "570", "unit": "g"},
-        {"name": "sukkererter eller snøerter", "quantity": "340", "unit": "g"},
-        {"name": "fersk ingefær", "quantity": "1", "unit": "stk"},
+        {"name": "hvit fisk uten skinn (torsk, hyse eller kveite)", "quantity": "570", "unit": "g"},
+        {"name": "smør", "quantity": "60", "unit": "g"},
+        {"name": "soyasaus", "quantity": "3", "unit": "ss"},
         {"name": "riseddik", "quantity": "3", "unit": "ss"},
+        {"name": "fersk ingefær", "quantity": "1", "unit": "stk"},
+        {"name": "sukkererter eller snøerter", "quantity": "340", "unit": "g"},
         {"name": "fersk koriander", "quantity": "1", "unit": "neve"}
       ],
       "steps": [
@@ -91,14 +102,15 @@
       "name": "Pasta med flesk og grønne blader",
       "cuisine": "italian",
       "time_min": 30,
-      "rating": null,
       "source": "Repertoire",
       "source_url": null,
       "ingredients": [
         {"name": "stekeflesk", "quantity": "200", "unit": "g"},
         {"name": "grønnkål eller spinat", "quantity": "2", "unit": "never"},
         {"name": "pasta", "quantity": "400", "unit": "g"},
-        {"name": "parmesan", "quantity": "50", "unit": "g"}
+        {"name": "hvitløk", "quantity": "3", "unit": "fedd"},
+        {"name": "olivenolje", "quantity": "2", "unit": "ss"},
+        {"name": "parmesan", "quantity": null, "unit": "til servering"}
       ],
       "steps": [
         {"instruction": "Stek flesk i biter til det er sprøtt og gyllent. Sett det til side på et papir."},
@@ -110,15 +122,19 @@
       "name": "Kikertgryte med kokos og tomat",
       "cuisine": "indian",
       "time_min": 40,
-      "rating": null,
       "source": "Repertoire",
       "source_url": null,
       "ingredients": [
         {"name": "kikerter", "quantity": "2", "unit": "bokser"},
         {"name": "kokosmelk", "quantity": "1", "unit": "boks"},
         {"name": "hermetiske tomater", "quantity": "1", "unit": "boks"},
+        {"name": "løk", "quantity": "1", "unit": "stk"},
+        {"name": "hvitløk", "quantity": "3", "unit": "fedd"},
         {"name": "ingefær fersk", "quantity": "2", "unit": "cm"},
-        {"name": "spinat", "quantity": "2", "unit": "never"}
+        {"name": "karri", "quantity": "2", "unit": "ts"},
+        {"name": "gurkemeie", "quantity": "1", "unit": "ts"},
+        {"name": "spinat", "quantity": "2", "unit": "never"},
+        {"name": "ris", "quantity": null, "unit": "til servering"}
       ],
       "steps": [
         {"instruction": "Fres løk, hvitløk og revet ingefær i litt olje til det er mykt og dufter."},
@@ -131,22 +147,23 @@
       "name": "Fredagstaco med lam og tørkede chilier",
       "cuisine": "mexican",
       "time_min": 30,
-      "rating": null,
       "source": "En Grønsberg-klassiker",
       "source_url": null,
       "ingredients": [
         {"name": "lammekjøttdeig", "quantity": "400", "unit": "g"},
-        {"name": "tørkede chilier (guajillo/ancho)", "quantity": "1-3", "unit": "stk"},
-        {"name": "svarte bønner", "quantity": "1", "unit": "boks"},
         {"name": "spisspaprika", "quantity": "2", "unit": "stk"},
-        {"name": "tortillalefser", "quantity": "1", "unit": "pakke"},
-        {"name": "rømme", "quantity": "1", "unit": "boks"},
-        {"name": "revet cheddar", "quantity": "100", "unit": "g"},
+        {"name": "svarte bønner", "quantity": "1", "unit": "boks"},
+        {"name": "tørkede chilier (guajillo/ancho/pasilla)", "quantity": "1-3", "unit": "stk"},
         {"name": "sjalottløk", "quantity": "1", "unit": "stk"},
-        {"name": "gulrot", "quantity": "1-2", "unit": "stk"},
+        {"name": "hvitløk", "quantity": "3", "unit": "fedd"},
+        {"name": "rødløk", "quantity": "1/4", "unit": "stk"},
+        {"name": "gulrot revet", "quantity": "1-2", "unit": "stk"},
         {"name": "lime", "quantity": "1", "unit": "stk"},
-        {"name": "tomat", "quantity": "2", "unit": "stk"},
-        {"name": "agurk", "quantity": "0.5", "unit": "stk"}
+        {"name": "tortillalefser", "quantity": "1", "unit": "pakke"},
+        {"name": "rømme", "quantity": null, "unit": "til servering"},
+        {"name": "revet cheddar", "quantity": null, "unit": "til servering"},
+        {"name": "agurk", "quantity": null, "unit": "til servering"},
+        {"name": "tomat", "quantity": null, "unit": "til servering"}
       ],
       "steps": [
         {"instruction": "Bland tynt skivet rødløk, revet gulrot, limesaft og salt til en rask slaw. Sett til side."},
