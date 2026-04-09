@@ -1,178 +1,161 @@
 {
-  "week_start": "2026-04-04",
+  "week_start": "2026-04-11",
   "days": {
-    "2026-04-04": {
-      "name": "Braised Eggs with Leeks and Za'atar",
-      "cuisine": "middle eastern",
-      "time_min": 30,
+    "2026-04-11": {
+      "name": "Roasted Aubergine with Anchovies and Oregano",
+      "cuisine": "mediterranean",
+      "time_min": 50,
+      "rating": null,
       "source": "The Guardian (Yotam Ottolenghi)",
-      "source_url": "https://www.theguardian.com/food/2019/mar/23/yotam-ottolenghi-eggs-recipes-braised-leek-zatar-baked-yoghurt-aubergine-egg-sandwich",
-      "ingredients": [
-        {"name": "purre, i skiver", "quantity": "2", "unit": "stk"},
-        {"name": "egg", "quantity": "5", "unit": "stk"},
-        {"name": "za'atar", "quantity": "2", "unit": "ss"},
-        {"name": "feta, smuldret", "quantity": "80", "unit": "g"},
-        {"name": "smør", "quantity": "30", "unit": "g"},
-        {"name": "olivenolje", "quantity": null, "unit": null},
-        {"name": "sitron", "quantity": "0.5", "unit": "stk"},
-        {"name": "godt brød", "quantity": null, "unit": "til servering"}
-      ],
-      "steps": [
-        {"instruction": "Smelt smør og en skvett olivenolje i en vid panne på middels varme. Legg i purren med en god klype salt, sett på lokk og la den steke mykt i 10–12 minutter. Den skal bli søt og smeltet, ikke brunet."},
-        {"instruction": "Rør inn za'atar og la det frese med i et minutt til det dufter."},
-        {"instruction": "Lag fordypninger i purren og knekk et egg i hver. Sett på lokk og la det koke forsiktig på lav varme i 4–5 minutter — hvitene skal stivne mens plommene er rennende."},
-        {"instruction": "Dryss over smuldret feta og press litt sitronsaft over. Server rett fra pannen med godt brød ved siden av."}
-      ],
-      "notes": "Enkel og elegant Ottolenghi-rett. Purre i sesong nå."
-    },
-    "2026-04-05": {
-      "name": "Red Lentil Soup",
-      "cuisine": "other",
-      "time_min": 45,
-      "source": "NYT Cooking, by Melissa Clark",
-      "source_url": "https://cooking.nytimes.com/recipes/1016062-red-lentil-soup",
-      "ingredients": [
-        {"name": "olivenolje", "quantity": "3", "unit": "ss"},
-        {"name": "løk", "quantity": "1", "unit": "stk"},
-        {"name": "hvitløk", "quantity": "2", "unit": "fedd"},
-        {"name": "tomatpuré", "quantity": "1", "unit": "ss"},
-        {"name": "spisskummen", "quantity": "1", "unit": "ts"},
-        {"name": "chilipulver eller cayennepepper", "quantity": "1", "unit": "klype"},
-        {"name": "kylling- eller grønnsakskraft", "quantity": "950", "unit": "ml"},
-        {"name": "røde linser", "quantity": "200", "unit": "g"},
-        {"name": "gulrot", "quantity": "1", "unit": "stk"},
-        {"name": "sitron", "quantity": "0.5", "unit": "stk"},
-        {"name": "fersk koriander", "quantity": "3", "unit": "ss"}
-      ],
-      "steps": [
-        {"instruction": "Varm oljen i en stor gryte på høy varme til den er varm og skimrer. Tilsett løk og hvitløk og stek til gyllenbrunt, ca. 4 minutter."},
-        {"instruction": "Rør inn tomatpuré, spisskummen, ¼ ts salt, ¼ ts sort pepper og chilipulveret. Stek videre i 2 minutter."},
-        {"instruction": "Tilsett kraft, 500 ml vann, linser og gulrot i terninger. Kok opp, legg på lokket på halv gjenge og skru ned til middels lav varme. La småkoke til linsene er myke, ca. 30 minutter. Smak til med salt."},
-        {"instruction": "Blend halvparten av suppen med en stavmikser eller blender, og rør den tilbake i gryten. Suppen skal være delvis jevn men fortsatt ha litt tekstur."},
-        {"instruction": "Varm suppen opp igjen om nødvendig. Rør inn sitronsaft og koriander. Server med en skvett god olivenolje og et dryss chilipulver."}
-      ]
-    },
-    "2026-04-06": {
-      "name": "Pasta med tomatsaus og salsiccia",
-      "cuisine": "italian",
-      "time_min": 30,
-      "source": "Repertoire",
       "source_url": null,
       "ingredients": [
-        {"name": "salsiccia", "quantity": "2", "unit": "stk"},
-        {"name": "hermetiske tomater", "quantity": "1", "unit": "boks"},
-        {"name": "pasta", "quantity": "400", "unit": "g"},
-        {"name": "hvitløk", "quantity": "2", "unit": "fedd"},
-        {"name": "løk", "quantity": "1", "unit": "stk"},
-        {"name": "chiliflak", "quantity": "1", "unit": "ts"},
-        {"name": "olivenolje", "quantity": "2", "unit": "ss"}
+        {"name": "aubergine", "quantity": "2", "unit": "stk"},
+        {"name": "ansjosfileter i olje", "quantity": "8", "unit": "stk"},
+        {"name": "kapers", "quantity": "1", "unit": "ss"},
+        {"name": "fersk persille", "quantity": "1", "unit": "neve"}
       ],
       "steps": [
-        {"instruction": "Brun salsiccia i biter i olivenolje i en dyp panne."},
-        {"instruction": "Tilsett hakket løk og hvitløk, stek til mykt."},
-        {"instruction": "Ha i hermetiske tomater og litt chiliflak. La sausen putre i 15 minutter."},
-        {"instruction": "Kok pasta etter anvisning. Bland med sausen og server."}
-      ]
-    },
-    "2026-04-07": {
-      "name": "Soy Butter Fish and Peas",
-      "cuisine": "asian",
-      "time_min": 20,
-      "source": "NYT Cooking, by Andy Baraghani",
-      "source_url": "https://cooking.nytimes.com/recipes/1017283-soy-butter-fish-and-peas",
-      "ingredients": [
-        {"name": "hvit fisk uten skinn (torsk, hyse eller kveite)", "quantity": "570", "unit": "g"},
-        {"name": "smør", "quantity": "60", "unit": "g"},
-        {"name": "soyasaus", "quantity": "3", "unit": "ss"},
-        {"name": "riseddik", "quantity": "3", "unit": "ss"},
-        {"name": "fersk ingefær", "quantity": "1", "unit": "stk"},
-        {"name": "sukkererter eller snøerter", "quantity": "340", "unit": "g"},
-        {"name": "fersk koriander", "quantity": "1", "unit": "neve"}
+        {"instruction": "Sett ovnen på 220°C. Halver auberginene på langs og skjær kryssmønster i fruktkjøttet. Pensle raust med olivenolje og krydre med salt. Legg med snittflaten ned på en stekeplate og stek i 20 minutter."},
+        {"instruction": "Snu auberginene slik at snittflaten vender opp. Fordel ansjosfileter og tynt skivede hvitløkfedd over snittflatene. Dryss over oregano, kapers og litt mer olje."},
+        {"instruction": "Sett tilbake i ovnen og stek i ytterligere 20–25 minutter til kjøttet er helt mykt og toppen er gyllen."},
+        {"instruction": "Avslutt med fersk persille og server varm eller i romtemperatur. Godt brød til."}
       ],
-      "steps": [
-        {"instruction": "Krydre torsken med salt på alle sider og la den stå noen minutter."},
-        {"instruction": "Smelt smøret i en stor panne på middels høy varme. Rør inn soyasaus, riseddik og tynt skivet ingefær. Knus over rikelig sort pepper."},
-        {"instruction": "Legg forsiktig fiskebitene i pannen med en tang. Legg på lokk og damp i 3–5 minutter til fisken er nesten gjennomstekt."},
-        {"instruction": "Ta av lokket og fordel ertene over fisken. Lokk på igjen, damp i 1–2 minutter til ertene er lysegrønne."},
-        {"instruction": "Topp med fersk koriander og server rett fra pannen."}
-      ],
-      "notes": "Bruk den frosne torsken fra fryseren."
+      "notes": "Mesteparten er passiv ovnstid. Gratis oppskrift hos The Guardian."
     },
-    "2026-04-08": {
-      "name": "Pasta med flesk og grønne blader",
-      "cuisine": "italian",
-      "time_min": 30,
-      "source": "Repertoire",
-      "source_url": null,
-      "ingredients": [
-        {"name": "stekeflesk", "quantity": "200", "unit": "g"},
-        {"name": "grønnkål eller spinat", "quantity": "2", "unit": "never"},
-        {"name": "pasta", "quantity": "400", "unit": "g"},
-        {"name": "hvitløk", "quantity": "3", "unit": "fedd"},
-        {"name": "olivenolje", "quantity": "2", "unit": "ss"},
-        {"name": "parmesan", "quantity": null, "unit": "til servering"}
-      ],
-      "steps": [
-        {"instruction": "Stek flesk i biter til det er sprøtt og gyllent. Sett det til side på et papir."},
-        {"instruction": "Stek hvitløk kort i fettet fra flesket, tilsett grønnkål eller spinat og la det falle sammen."},
-        {"instruction": "Kok pasta etter anvisning. Bland pasta, grønnsaker og sprøtt flesk. Riv over rikelig parmesan."}
-      ]
-    },
-    "2026-04-09": {
-      "name": "Kikertgryte med kokos og tomat",
-      "cuisine": "indian",
+    "2026-04-12": {
+      "name": "Fläskpannkaka med grönkål, äpple och brynt smör",
+      "cuisine": "scandinavian",
       "time_min": 40,
+      "rating": null,
+      "source": "Stefan Ekengren, Köket.se",
+      "source_url": null,
+      "ingredients": [
+        {"name": "stekeflesk", "quantity": "250", "unit": "g"},
+        {"name": "røde epler", "quantity": "2", "unit": "stk"},
+        {"name": "grønnkål", "quantity": "4", "unit": "blader"},
+        {"name": "frosne tyttebær", "quantity": "3", "unit": "dl"}
+      ],
+      "steps": [
+        {"instruction": "Rør tyttebær og sukker sammen og la det stå i romtemperatur."},
+        {"instruction": "Sett ovnen på 200°C."},
+        {"instruction": "Visp egg, mel og melk til en jevn røre."},
+        {"instruction": "Stek flesk sprøtt og legg det i en ildfast form. Hell røren over og stek i ovnen i 25–30 minutter til den er gyllen og fast."},
+        {"instruction": "Fres epleskiver og grønnkål i brunet smør i en panne."},
+        {"instruction": "Server pannekaken med tyttebærrøre og eplefres."}
+      ]
+    },
+    "2026-04-13": {
+      "name": "Kinanudler",
+      "cuisine": "asian",
+      "time_min": 30,
+      "rating": null,
+      "source": "Woks of Life (tilpasset)",
+      "source_url": null,
+      "ingredients": [
+        {"name": "kinesiske hvite nudler", "quantity": "450", "unit": "g"},
+        {"name": "vårløk", "quantity": "8", "unit": "stk"},
+        {"name": "sopp", "quantity": "100", "unit": "g"},
+        {"name": "fersk spinat", "quantity": "2", "unit": "never"},
+        {"name": "gulrot", "quantity": "1", "unit": "stk"}
+      ],
+      "steps": [
+        {"instruction": "Fres vårløk sakte i olje til gyllen. Ta ut og sett til side."},
+        {"instruction": "Tilsett lys og mørk soyasaus og litt sukker i oljen, la det putre i 2 minutter."},
+        {"instruction": "Wok gulrot og sopp på høy varme. Tilsett spinat og la den falle sammen."},
+        {"instruction": "Kok nudlene etter anvisning og vend dem i sausen med grønnsakene."},
+        {"instruction": "Server toppet med den stekte vårløken og steikt egg."}
+      ]
+    },
+    "2026-04-14": {
+      "name": "Tomatsuppe med makaroni og egg",
+      "cuisine": "other",
+      "time_min": 40,
+      "rating": null,
       "source": "Repertoire",
       "source_url": null,
       "ingredients": [
-        {"name": "kikerter", "quantity": "2", "unit": "bokser"},
-        {"name": "kokosmelk", "quantity": "1", "unit": "boks"},
-        {"name": "hermetiske tomater", "quantity": "1", "unit": "boks"},
-        {"name": "løk", "quantity": "1", "unit": "stk"},
-        {"name": "hvitløk", "quantity": "3", "unit": "fedd"},
-        {"name": "ingefær fersk", "quantity": "2", "unit": "cm"},
-        {"name": "karri", "quantity": "2", "unit": "ts"},
-        {"name": "gurkemeie", "quantity": "1", "unit": "ts"},
-        {"name": "spinat", "quantity": "2", "unit": "never"},
-        {"name": "ris", "quantity": null, "unit": "til servering"}
+        {"name": "hermetiske tomater", "quantity": "2", "unit": "bokser"},
+        {"name": "egg", "quantity": "5", "unit": "stk"},
+        {"name": "makaroni", "quantity": "200", "unit": "g"},
+        {"name": "kikerter", "quantity": "1", "unit": "boks"}
       ],
       "steps": [
-        {"instruction": "Fres løk, hvitløk og revet ingefær i litt olje til det er mykt og dufter."},
-        {"instruction": "Tilsett karri, gurkemeie og spisskummen. Rør i 1 minutt."},
-        {"instruction": "Ha i hermetiske tomater, kokosmelk og avrennte kikerter. La gryten putre i 20 minutter."},
-        {"instruction": "Rør inn spinat til slutt og la den falle sammen. Server med ris."}
-      ]
+        {"instruction": "Stek løk og hvitløk i smør til mykt."},
+        {"instruction": "Tilsett tomatpuré og litt mel, rør godt."},
+        {"instruction": "Ha i hermetiske tomater, kraft og krydder (oregano, timian, røkt paprika). La det putre i 20 minutter."},
+        {"instruction": "Blend suppen jevn. Rør inn avrennte kikerter."},
+        {"instruction": "Kok makaroni og hardkok egg separat."},
+        {"instruction": "Server suppen med makaroni og delte kokte egg i skålen."}
+      ],
+      "notes": "Kikerter tillagt for å dekke belgvekst-kravet."
     },
-    "2026-04-10": {
-      "name": "Fredagstaco med lam og tørkede chilier",
-      "cuisine": "mexican",
+    "2026-04-15": {
+      "name": "Braised White Beans and Greens With Parmesan",
+      "cuisine": "italian",
       "time_min": 30,
-      "source": "En Grønsberg-klassiker",
+      "rating": null,
+      "source": "NYT Cooking, by Lidey Heuck",
       "source_url": null,
       "ingredients": [
-        {"name": "lammekjøttdeig", "quantity": "400", "unit": "g"},
-        {"name": "spisspaprika", "quantity": "2", "unit": "stk"},
-        {"name": "svarte bønner", "quantity": "1", "unit": "boks"},
-        {"name": "tørkede chilier (guajillo/ancho/pasilla)", "quantity": "1-3", "unit": "stk"},
-        {"name": "sjalottløk", "quantity": "1", "unit": "stk"},
-        {"name": "hvitløk", "quantity": "3", "unit": "fedd"},
-        {"name": "rødløk", "quantity": "1/4", "unit": "stk"},
-        {"name": "gulrot revet", "quantity": "1-2", "unit": "stk"},
-        {"name": "lime", "quantity": "1", "unit": "stk"},
-        {"name": "tortillalefser", "quantity": "1", "unit": "pakke"},
-        {"name": "rømme", "quantity": null, "unit": "til servering"},
-        {"name": "revet cheddar", "quantity": null, "unit": "til servering"},
-        {"name": "agurk", "quantity": null, "unit": "til servering"},
-        {"name": "tomat", "quantity": null, "unit": "til servering"}
+        {"name": "cannellini-bønner", "quantity": "2", "unit": "bokser"},
+        {"name": "grønnkål eller mangold", "quantity": "300", "unit": "g"},
+        {"name": "fennikel", "quantity": "1", "unit": "stk"},
+        {"name": "parmesan", "quantity": "3", "unit": "ss"},
+        {"name": "fersk rosmarin eller timian", "quantity": "2", "unit": "ts"},
+        {"name": "mozzarella revet", "quantity": "125", "unit": "g"},
+        {"name": "sitron", "quantity": "0.5", "unit": "stk"},
+        {"name": "godt brød", "quantity": "1", "unit": "stk"}
       ],
       "steps": [
-        {"instruction": "Bland tynt skivet rødløk, revet gulrot, limesaft og salt til en rask slaw. Sett til side."},
-        {"instruction": "Stek paprika i biter på høy varme til de er brunet. Sett til side."},
-        {"instruction": "Bløtlegg tørkede chilier i varmt vann i 10 minutter, hakk dem fint."},
-        {"instruction": "Brun lammekjøttdeigen. Tilsett finhakket sjalottløk, hvitløk og den hakkede chilien."},
-        {"instruction": "Tilsett avrennte svarte bønner og den brente paprikaen. La alt putre sammen i 10–15 minutter."},
-        {"instruction": "Varm tortillalefser og server med fyllet, slaw, rømme, revet cheddar, tomatbiter og agurk."}
+        {"instruction": "Varm olivenolje i en stor panne på middels varme. Tilsett finhakket fennikel, løk og urter. Stek i 4–6 minutter til mykt. Tilsett hvitløk og chiliflak, stek et minutt til."},
+        {"instruction": "Tilsett bladgrøntene i omganger og la dem falle sammen mellom hver omgang."},
+        {"instruction": "Tilsett bønnene, kraft og litt pepper. Kok opp, skru ned varmen og la det småkoke i 6–8 minutter. Mos noen av bønnene med en skje for å tykne sausen."},
+        {"instruction": "Ta av varmen og rør inn sitronsaft, mozzarella og parmesan. Smak til. Server i skåler med ost på toppen og ristet brød ved siden av."}
+      ],
+      "notes": "Bak betalingsmur på NYT Cooking."
+    },
+    "2026-04-16": {
+      "name": "Fiskeboller i gul saus",
+      "cuisine": "scandinavian",
+      "time_min": 45,
+      "rating": null,
+      "source": "Repertoire",
+      "source_url": null,
+      "ingredients": [
+        {"name": "fiskeboller", "quantity": "1", "unit": "boks"},
+        {"name": "gulrøtter", "quantity": "2", "unit": "stk"},
+        {"name": "poteter", "quantity": "500", "unit": "g"},
+        {"name": "erter eller grønnkål", "quantity": "1", "unit": "neve"}
+      ],
+      "steps": [
+        {"instruction": "Kok poteter og gulrøtter i biter til de er møre."},
+        {"instruction": "Stek hakket løk i smør i en gryte, tilsett karri og gurkemeie."},
+        {"instruction": "Hell i melk litt etter litt under omrøring til en jevn saus."},
+        {"instruction": "Tilsett fiskebollene og varm gjennom. Rør inn erter eller grønnkål til slutt."}
       ]
+    },
+    "2026-04-17": {
+      "name": "Chicken Piccata",
+      "cuisine": "italian",
+      "time_min": 25,
+      "rating": null,
+      "source": "NYT Cooking, by Ali Slagle",
+      "source_url": null,
+      "ingredients": [
+        {"name": "kyllingbryst", "quantity": "4", "unit": "stk"},
+        {"name": "sitron", "quantity": "1", "unit": "stk"},
+        {"name": "kapers", "quantity": "4", "unit": "ts"},
+        {"name": "sjalottløk", "quantity": "1", "unit": "stk"},
+        {"name": "fersk persille", "quantity": "1", "unit": "neve"}
+      ],
+      "steps": [
+        {"instruction": "Del kyllingbrystene horisontalt til tynnere stykker. Krydre med salt og pepper og vend lett i mel."},
+        {"instruction": "Varm smør og olivenolje i en stor panne på middels høy varme. Stek kyllingen i omganger, ca. 3 minutter per side til gyllen og gjennomstekt. Legg til side."},
+        {"instruction": "Tilsett finhakket sjalottløk og tynne sitronskiver i pannen, stek i 2–3 minutter."},
+        {"instruction": "Hell i kyllingkraft og kok til det er redusert til halvparten, ca. 3 minutter."},
+        {"instruction": "Skru ned varmen. Rør inn smør, kapers og sitronsaft. Legg kyllingen tilbake i pannen og hell sausen over. Dryss med persille."}
+      ],
+      "notes": "Bak betalingsmur på NYT Cooking. Rask og elegant fredagsrett."
     }
   }
 }
