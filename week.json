@@ -1,6 +1,49 @@
 {
   "week_start": "2026-04-18",
   "days": {
+    "2026-04-16": {
+      "name": "Fiskeboller i gul saus",
+      "cuisine": "scandinavian",
+      "time_min": 45,
+      "rating": null,
+      "source": "Repertoire",
+      "source_url": null,
+      "ingredients": [
+        {"name": "fiskeboller", "quantity": "1", "unit": "boks"},
+        {"name": "gulrøtter", "quantity": "2", "unit": "stk"},
+        {"name": "poteter", "quantity": "500", "unit": "g"},
+        {"name": "erter eller grønnkål", "quantity": "1", "unit": "neve"}
+      ],
+      "steps": [
+        {"instruction": "Kok poteter og gulrøtter i biter til de er møre."},
+        {"instruction": "Stek hakket løk i smør i en gryte, tilsett karri og gurkemeie."},
+        {"instruction": "Hell i melk litt etter litt under omrøring til en jevn saus."},
+        {"instruction": "Tilsett fiskebollene og varm gjennom. Rør inn erter eller grønnkål til slutt."}
+      ]
+    },
+    "2026-04-17": {
+      "name": "Chicken Piccata",
+      "cuisine": "italian",
+      "time_min": 25,
+      "rating": null,
+      "source": "NYT Cooking, by Ali Slagle",
+      "source_url": null,
+      "ingredients": [
+        {"name": "kyllingbryst", "quantity": "4", "unit": "stk"},
+        {"name": "sitron", "quantity": "1", "unit": "stk"},
+        {"name": "kapers", "quantity": "4", "unit": "ts"},
+        {"name": "sjalottløk", "quantity": "1", "unit": "stk"},
+        {"name": "fersk persille", "quantity": "1", "unit": "neve"}
+      ],
+      "steps": [
+        {"instruction": "Del kyllingbrystene horisontalt til tynnere stykker. Krydre med salt og pepper og vend lett i mel."},
+        {"instruction": "Varm smør og olivenolje i en stor panne på middels høy varme. Stek kyllingen i omganger, ca. 3 minutter per side til gyllen og gjennomstekt. Legg til side."},
+        {"instruction": "Tilsett finhakket sjalottløk og tynne sitronskiver i pannen, stek i 2–3 minutter."},
+        {"instruction": "Hell i kyllingkraft og kok til det er redusert til halvparten, ca. 3 minutter."},
+        {"instruction": "Skru ned varmen. Rør inn smør, kapers og sitronsaft. Legg kyllingen tilbake i pannen og hell sausen over. Dryss med persille."}
+      ],
+      "notes": "Bak betalingsmur på NYT Cooking. Rask og elegant fredagsrett."
+    },
     "2026-04-18": {
       "name": "Billi Bi",
       "cuisine": "french",
