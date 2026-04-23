@@ -1,195 +1,6 @@
 {
-  "week_start": "2026-04-18",
+  "week_start": "2026-04-25",
   "days": {
-    "2026-04-16": {
-      "name": "Fiskeboller i gul saus",
-      "cuisine": "scandinavian",
-      "time_min": 45,
-      "rating": null,
-      "source": "Repertoire",
-      "source_url": null,
-      "ingredients": [
-        {"name": "fiskeboller", "quantity": "1", "unit": "boks"},
-        {"name": "melk", "quantity": "6", "unit": "dl"},
-        {"name": "poteter", "quantity": "500", "unit": "g"},
-        {"name": "gulrøtter", "quantity": "2", "unit": "stk"},
-        {"name": "erter eller grønnkål", "quantity": "1", "unit": "neve"},
-        {"name": "garam masala eller karri", "quantity": "1", "unit": "ss"},
-        {"name": "gurkemeie", "quantity": "1", "unit": "ts"},
-        {"name": "løk", "quantity": "0.5", "unit": "stk"},
-        {"name": "smør", "quantity": "1", "unit": "ss"}
-      ],
-      "steps": [
-        {"instruction": "Kok poteter og gulrøtter til møre."},
-        {"instruction": "Stek løk i smør, tilsett krydder."},
-        {"instruction": "Hell i melk litt etter litt, rør til jevn saus."},
-        {"instruction": "Tilsett fiskeboller, varm gjennom. Tilsett erter/grønnkål til slutt."}
-      ]
-    },
-    "2026-04-17": {
-      "name": "Chicken Piccata",
-      "cuisine": "italian",
-      "time_min": 25,
-      "rating": null,
-      "source": "NYT Cooking, by Ali Slagle",
-      "source_url": "https://cooking.nytimes.com/recipes/1016907-chicken-piccata",
-      "ingredients": [
-        {"name": "kyllinglår uten bein og skinn", "quantity": "4", "unit": "stk"},
-        {"name": "hvetemel til panering", "quantity": null, "unit": null},
-        {"name": "smør", "quantity": "85", "unit": "g"},
-        {"name": "olivenolje", "quantity": "3", "unit": "ss"},
-        {"name": "sjalottløk", "quantity": "1", "unit": "stk"},
-        {"name": "sitron", "quantity": "1", "unit": "stk"},
-        {"name": "kyllingkraft", "quantity": "175", "unit": "ml"},
-        {"name": "kapers", "quantity": "4", "unit": "ts"},
-        {"name": "fersk persille", "quantity": null, "unit": null}
-      ],
-      "steps": [
-        {"instruction": "Krydre begge sider av kyllinglårene med salt og pepper. Vend i mel og rist av overskuddet."},
-        {"instruction": "Varm 3 ss smør og oliveolje i en stor panne på middels høy varme. Stek kyllingen i omganger uten å overfylle pannen — ca. 3 minutter per side til gyllenbrun og gjennomstekt. Legg på en tallerken."},
-        {"instruction": "Tilsett sjalottløk og sitronskiver (den halvdelen skåret i tynne skiver) i pannen og stek under omrøring til lett karamellisert og duftende, 2–3 minutter. Tilsett kraften og la koke til den er redusert til halvparten, ca. 3 minutter."},
-        {"instruction": "Skru ned varmen til lav. Rør inn de resterende 3 ss smør, kapers og sitronsaft fra den andre halvdelen. Smak til med salt og pepper."},
-        {"instruction": "Server kyllingen med sausen helt over. Pynt med persille om ønskelig."}
-      ]
-    },
-    "2026-04-18": {
-      "name": "Billi Bi",
-      "cuisine": "french",
-      "time_min": 40,
-      "rating": null,
-      "source": "NYT Cooking, by Craig Claiborne",
-      "source_url": "https://cooking.nytimes.com/recipes/1017283-billi-bi",
-      "ingredients": [
-        {"name": "blåskjell", "quantity": "900", "unit": "g"},
-        {"name": "sjalottløk", "quantity": "2", "unit": "stk"},
-        {"name": "løk", "quantity": "1", "unit": "stk"},
-        {"name": "fersk persille", "quantity": "4", "unit": "kvister"},
-        {"name": "tørr hvitvin", "quantity": "2.5", "unit": "dl"},
-        {"name": "smør", "quantity": "2", "unit": "ss"},
-        {"name": "timian", "quantity": "0.5", "unit": "ts"},
-        {"name": "laurbærblad", "quantity": "1", "unit": "stk"},
-        {"name": "fløte", "quantity": "2.5", "unit": "dl"},
-        {"name": "eggeplommer", "quantity": "2", "unit": "stk"},
-        {"name": "cayennepepper", "quantity": "1", "unit": "klype"},
-        {"name": "gressløk eller persille", "quantity": null, "unit": null}
-      ],
-      "steps": [
-        {"instruction": "Skrubb blåskjellene godt og fjern skjeggene. Kast eventuelle åpne skjell som ikke lukker seg når du banker på dem."},
-        {"instruction": "Ha blåskjell, sjalottløk, løk, persillestilker, hvitvin, smør, timian, laurbær, cayenne, salt og pepper i en stor gryte. Legg på lokk og kok opp på høy varme. La småkoke 5–8 minutter til alle skjellene har åpnet seg. Kast skjell som ikke åpner seg."},
-        {"instruction": "Ta blåskjellene ut med en hullsleiv og la dem avkjøles litt. Fjern kjøttet fra skallene og sett til side. Kast skallene."},
-        {"instruction": "Sil kraften gjennom et klede eller fin sil over i en ren kjele. La den stå 5 minutter så eventuelt sand synker til bunns — bruk ikke den siste skjeen."},
-        {"instruction": "Varm kraften til kokepunktet og rør inn fløten. La småkoke et par minutter."},
-        {"instruction": "Pisk eggeplommene sammen i en bolle. Hell litt av den varme suppen over eggeplommene under konstant omrøring for å temperere dem, hell så blandingen tilbake i kjelen. Varm forsiktig til suppen tykner lett — den må ikke koke."},
-        {"instruction": "Fordel blåskjellkjøttet i varme suppeskåler, hell suppen over og dryss med finhakket gressløk eller persille. Kan også serveres kald."}
-      ],
-      "notes": "Klassisk fransk musselsuppe fra Maxim's. Kan også serveres kald."
-    },
-    "2026-04-19": {
-      "name": "Crispy Halloumi with Tomatoes and White Beans",
-      "cuisine": "other",
-      "time_min": 30,
-      "rating": null,
-      "source": "NYT Cooking, by Nargisse Benkabbou",
-      "source_url": "https://cooking.nytimes.com/recipes/1023413-crispy-halloumi-with-tomatoes-and-white-beans",
-      "ingredients": [
-        {"name": "olivenolje", "quantity": "2", "unit": "ss"},
-        {"name": "kirsebær- eller druetomat, halvert", "quantity": "450", "unit": "g"},
-        {"name": "hvitløk", "quantity": "2", "unit": "fedd"},
-        {"name": "fersk persille, finhakket", "quantity": "1", "unit": "ss"},
-        {"name": "honning", "quantity": "1", "unit": "ts"},
-        {"name": "tørket oregano eller timian", "quantity": "0.5", "unit": "ts"},
-        {"name": "cannellini-, smør- eller navybønner", "quantity": "1", "unit": "boks"},
-        {"name": "halloumi, skåret i 0,5 cm skiver", "quantity": "225", "unit": "g"},
-        {"name": "sitron", "quantity": "0.5", "unit": "stk"}
-      ],
-      "steps": [
-        {"instruction": "Sett grillelementet (broiler) på høy varme med risten i øvre tredjedel av ovnen, 8–10 cm fra varmekilden."},
-        {"instruction": "Varm 2 ss olivenolje i en stor, ovnfast panne på middels varme. Tilsett tomater, hvitløk, persille, honning og oregano. Krydre med salt og pepper og stek under jevnlig omrøring til tomatene er myke og har sluppet saften, ca. 10 minutter."},
-        {"instruction": "Rør inn bønnene og varm gjennom, ca. 3 minutter. Smak til og juster krydder. Ta pannen av varmen."},
-        {"instruction": "Legg halloumieskivene over tomaten og bønnene i pannen. Sett pannen i ovnen og grill til halloumien er gyllenbrun og sprø på toppen, ca. 5 minutter."},
-        {"instruction": "Dryss over rikelig med olivenolje, press sitronen over og tilsett en lett skvett honning. Dryss over persille og server umiddelbart, gjerne med godt brød."}
-      ]
-    },
-    "2026-04-20": {
-      "name": "Pasta med tomatsaus og salsiccia",
-      "cuisine": "italian",
-      "time_min": 30,
-      "rating": null,
-      "source": "Repertoire",
-      "source_url": null,
-      "ingredients": [
-        {"name": "salsiccia", "quantity": "2", "unit": "stk"},
-        {"name": "hermetiske tomater", "quantity": "1", "unit": "boks"},
-        {"name": "pasta", "quantity": "400", "unit": "g"},
-        {"name": "hvitløk", "quantity": "2", "unit": "fedd"},
-        {"name": "løk", "quantity": "1", "unit": "stk"},
-        {"name": "chiliflak", "quantity": "1", "unit": "ts"},
-        {"name": "olivenolje", "quantity": "2", "unit": "ss"}
-      ],
-      "steps": [
-        {"instruction": "Brun salsiccia i biter i olivenolje."},
-        {"instruction": "Tilsett løk og hvitløk, stek til mykt."},
-        {"instruction": "Ha i tomater og chili, la putre 15 min."},
-        {"instruction": "Kok pasta og bland med sausen."}
-      ]
-    },
-    "2026-04-21": {
-      "name": "Kikertgryte med kokos og tomat",
-      "cuisine": "indian",
-      "time_min": 40,
-      "rating": null,
-      "source": "Repertoire",
-      "source_url": null,
-      "ingredients": [
-        {"name": "kikerter", "quantity": "2", "unit": "bokser"},
-        {"name": "kokosmelk", "quantity": "1", "unit": "boks"},
-        {"name": "hermetiske tomater", "quantity": "1", "unit": "boks"},
-        {"name": "løk", "quantity": "1", "unit": "stk"},
-        {"name": "hvitløk", "quantity": "3", "unit": "fedd"},
-        {"name": "ingefær fersk", "quantity": "2", "unit": "cm"},
-        {"name": "karri", "quantity": "2", "unit": "ts"},
-        {"name": "gurkemeie", "quantity": "1", "unit": "ts"},
-        {"name": "spinat", "quantity": "2", "unit": "never"},
-        {"name": "ris", "quantity": null, "unit": "til servering"}
-      ],
-      "steps": [
-        {"instruction": "Stek løk, hvitløk og ingefær til myk."},
-        {"instruction": "Tilsett krydder, rør 1 min."},
-        {"instruction": "Ha i tomater, kokosmelk og kikerter. Putre 20 min."},
-        {"instruction": "Tilsett spinat til slutt. Server med ris."}
-      ]
-    },
-    "2026-04-22": {
-      "name": "Chicken with Spinach — Saag Murgh",
-      "cuisine": "indian",
-      "time_min": 50,
-      "rating": null,
-      "source": "Madhur Jaffrey / The Guardian",
-      "source_url": null,
-      "ingredients": [
-        {"name": "kyllinglår", "quantity": "800", "unit": "g"},
-        {"name": "fersk spinat", "quantity": "400", "unit": "g"},
-        {"name": "løk", "quantity": "1", "unit": "stk"},
-        {"name": "ingefær, revet", "quantity": "2", "unit": "ts"},
-        {"name": "hvitløk", "quantity": "3", "unit": "fedd"},
-        {"name": "naturell yoghurt", "quantity": "150", "unit": "g"},
-        {"name": "malt koriander", "quantity": "1", "unit": "ts"},
-        {"name": "malt spisskummen", "quantity": "1", "unit": "ts"},
-        {"name": "gurkemeie", "quantity": "0.5", "unit": "ts"},
-        {"name": "garam masala", "quantity": "0.5", "unit": "ts"},
-        {"name": "chilipulver", "quantity": "0.25", "unit": "ts"},
-        {"name": "nøytral olje", "quantity": null, "unit": null}
-      ],
-      "steps": [
-        {"instruction": "Varm olje i en bred, tung panne på middels høy varme. Brun kyllinglårene på alle sider til gylne, ca. 8 minutter. Ta ut og sett til side."},
-        {"instruction": "I samme panne, stek løken til den er dypt gyllen, ca. 10 minutter. Tilsett hvitløk og ingefær og stek i 2 minutter til."},
-        {"instruction": "Tilsett koriander, spisskummen, gurkemeie og chilipulver. Rør i 1 minutt. Tilsett yoghurt én skje om gangen og rør godt mellom hver tilsetning for å unngå at det skiller seg."},
-        {"instruction": "Legg kyllingen tilbake i pannen. Tilsett en skvett vann, sett på lokk og kok på lav varme i 20 minutter til kyllingen er gjennomstekt."},
-        {"instruction": "Rør inn spinaten og kok i 5 minutter til den er visnet og godt blandet inn. Tilsett garam masala, smak til og juster krydringen."},
-        {"instruction": "Server med basmatiris."}
-      ],
-      "notes": "Mild nord-indisk kyllinggryte."
-    },
     "2026-04-23": {
       "name": "Pasta med flesk og grønne blader",
       "cuisine": "italian",
@@ -199,11 +10,11 @@
       "source_url": null,
       "ingredients": [
         {"name": "stekeflesk", "quantity": "200", "unit": "g"},
-        {"name": "grønnkål eller spinat", "quantity": "2", "unit": "never"},
+        {"name": "grønnkål eller spinat", "quantity": "2 never", "unit": null},
         {"name": "pasta", "quantity": "400", "unit": "g"},
         {"name": "hvitløk", "quantity": "3", "unit": "fedd"},
         {"name": "olivenolje", "quantity": "2", "unit": "ss"},
-        {"name": "parmesan", "quantity": null, "unit": "til servering"}
+        {"name": "parmesan", "quantity": "til servering", "unit": null}
       ],
       "steps": [
         {"instruction": "Stek flesk til sprøtt, sett til side."},
@@ -225,14 +36,14 @@
         {"name": "tørkede chilier (guajillo/ancho/pasilla)", "quantity": "1-3", "unit": "stk"},
         {"name": "sjalottløk", "quantity": "1", "unit": "stk"},
         {"name": "hvitløk", "quantity": "3", "unit": "fedd"},
-        {"name": "rødløk", "quantity": "0.25", "unit": "stk"},
+        {"name": "rødløk", "quantity": "1/4", "unit": "stk"},
         {"name": "gulrot revet", "quantity": "1-2", "unit": "stk"},
         {"name": "lime", "quantity": "1", "unit": "stk"},
-        {"name": "tortillalefser", "quantity": "1", "unit": "pakke"},
-        {"name": "rømme", "quantity": null, "unit": "til servering"},
-        {"name": "revet cheddar", "quantity": null, "unit": "til servering"},
-        {"name": "agurk", "quantity": null, "unit": "til servering"},
-        {"name": "tomat", "quantity": null, "unit": "til servering"}
+        {"name": "tortillalefser", "quantity": "1 pakke", "unit": null},
+        {"name": "rømme", "quantity": "til servering", "unit": null},
+        {"name": "revet cheddar", "quantity": "til servering", "unit": null},
+        {"name": "agurk", "quantity": "til servering", "unit": null},
+        {"name": "tomat", "quantity": "til servering", "unit": null}
       ],
       "steps": [
         {"instruction": "Bland rødløk, revet gulrot, limesaft og salt. Sett til side."},
@@ -241,7 +52,200 @@
         {"instruction": "Brun lammekjøttdeig. Tilsett sjalottløk, hvitløk og krydder."},
         {"instruction": "Tilsett bønner, chili og paprika. Putre 10-15 min."},
         {"instruction": "Server med varme lefser og tilbehør."}
+      ],
+      "notes": "Klassiker!"
+    },
+    "2026-04-25": {
+      "name": "Caramelised Cabbage Risotto",
+      "cuisine": "italian",
+      "time_min": 45,
+      "rating": null,
+      "source": "Smitten Kitchen",
+      "source_url": null,
+      "ingredients": [
+        {"name": "kål", "quantity": "500", "unit": "g"},
+        {"name": "løk", "quantity": "1", "unit": "stk"},
+        {"name": "olivenolje", "quantity": "2", "unit": "ss"},
+        {"name": "risottoris", "quantity": "300", "unit": "g"},
+        {"name": "tørr hvitvin", "quantity": "150", "unit": "ml"},
+        {"name": "grønnsaks- eller kyllingkraft", "quantity": "1.2", "unit": "l"},
+        {"name": "smør", "quantity": "55", "unit": "g"},
+        {"name": "parmesan", "quantity": "60", "unit": "g"}
+      ],
+      "steps": [
+        {"instruction": "Varm olje i en bred, tung panne på middels høy varme. Ha i kål og løk med en god klype salt. Stek under jevnlig omrøring i 25–30 minutter til det er dypt karamellisert og gyllent. Sett en liten håndfull til side til pynt."},
+        {"instruction": "I en separat kasserolle: varm en skvett olje på middels varme. Ha i risen og rist i 1–2 minutter til kantene blir gjennomskinnelige."},
+        {"instruction": "Hell i vinen og rør til den er absorbert. Tilsett så den varme kraften én øse om gangen, rør konstant og vent til hver porsjon er tatt opp før neste. Fortsett i 18–20 minutter til risen er kremet og akkurat mør."},
+        {"instruction": "Rør inn mesteparten av den karamelliserte kålen, smøret og halvparten av parmesanen. Smak til — risottoen skal flyte og spre seg, tilsett litt mer kraft ved behov."},
+        {"instruction": "Server med den reserverte kålen og resten av parmesanen på toppen."}
+      ],
+      "notes": "Ambisiøs helg — tar tid med karamelliseringen, men mesteparten er rolig røring."
+    },
+    "2026-04-26": {
+      "name": "Fläskpannkaka med grönkål, äpple och brynt smör",
+      "cuisine": "scandinavian",
+      "time_min": 40,
+      "rating": null,
+      "source": "Stefan Ekengren, Köket.se",
+      "source_url": null,
+      "ingredients": [
+        {"name": "egg", "quantity": "4", "unit": "stk"},
+        {"name": "hvetemel", "quantity": "4", "unit": "dl"},
+        {"name": "melk", "quantity": "8", "unit": "dl"},
+        {"name": "stekeflesk", "quantity": "250", "unit": "g"},
+        {"name": "røde epler", "quantity": "2", "unit": "stk"},
+        {"name": "grønnkål", "quantity": "4", "unit": "blader"},
+        {"name": "smør", "quantity": "60", "unit": "g"},
+        {"name": "frosne tyttebær", "quantity": "3", "unit": "dl"},
+        {"name": "sukker", "quantity": "1.5", "unit": "dl"}
+      ],
+      "steps": [
+        {"instruction": "Rør sammen tyttebær og sukker, la stå i romtemperatur."},
+        {"instruction": "Sett ovnen på 200°C."},
+        {"instruction": "Visp egg, mel og melk til en glatt røre."},
+        {"instruction": "Stek flesk sprøtt, legg i en ildfast form. Hell røren over og stek i 25–30 minutter."},
+        {"instruction": "Fres epler og grønnkål i brunet smør."},
+        {"instruction": "Server pannekaken med tyttebær og eplefres."}
       ]
+    },
+    "2026-04-27": {
+      "name": "Kinanudler",
+      "cuisine": "asian",
+      "time_min": 30,
+      "rating": null,
+      "source": "Woks of Life (tilpasset)",
+      "source_url": null,
+      "ingredients": [
+        {"name": "kinesiske hvite nudler", "quantity": "450", "unit": "g"},
+        {"name": "vårløk", "quantity": "8", "unit": "stk"},
+        {"name": "nøytral olje", "quantity": "80", "unit": "ml"},
+        {"name": "lys soyasaus", "quantity": "3", "unit": "ss"},
+        {"name": "mørk soyasaus", "quantity": "3", "unit": "ss"},
+        {"name": "sesamolje", "quantity": "noen dråper", "unit": null},
+        {"name": "gulrot", "quantity": "1", "unit": "stk"},
+        {"name": "sopp", "quantity": "100", "unit": "g"},
+        {"name": "fersk spinat", "quantity": "2 never", "unit": null},
+        {"name": "egg", "quantity": "1-2 per person", "unit": null}
+      ],
+      "steps": [
+        {"instruction": "Fres vårløk sakte i olje til gyllen. Ta ut og sett til side."},
+        {"instruction": "Tilsett begge soyasausene og en liten klype sukker i oljen, putre 2 minutter."},
+        {"instruction": "Wok gulrot og sopp på høy varme. Tilsett spinat til slutt."},
+        {"instruction": "Kok nudlene, og vend dem i sausen sammen med grønnsakene."},
+        {"instruction": "Server toppet med den stekte vårløken og et stekt egg."}
+      ]
+    },
+    "2026-04-28": {
+      "name": "Garlicky Chicken With Lemon-Anchovy Sauce",
+      "cuisine": "french",
+      "time_min": 25,
+      "rating": null,
+      "source": "NYT Cooking, by Melissa Clark",
+      "source_url": null,
+      "ingredients": [
+        {"name": "kyllinglår uten bein og skinn", "quantity": "570", "unit": "g"},
+        {"name": "olivenolje", "quantity": "60", "unit": "ml"},
+        {"name": "hvitløk", "quantity": "6", "unit": "fedd"},
+        {"name": "ansjosfileter", "quantity": "5", "unit": "stk"},
+        {"name": "kapers, avrent", "quantity": "2", "unit": "ss"},
+        {"name": "chiliflak", "quantity": "1", "unit": "klype"},
+        {"name": "sitron", "quantity": "1", "unit": "stk"},
+        {"name": "fersk persille, grovhakket", "quantity": "til servering", "unit": null}
+      ],
+      "steps": [
+        {"instruction": "Sett ovnen på 175°C. Krydre kyllinglårene med salt og pepper og la dem hvile mens du gjør klar oljen. Finhakk ett hvitløksfedd og sett til side."},
+        {"instruction": "Varm oljen i en stor, ovnsfast panne på middels høy varme. Tilsett de 5 knuste hvitløksfeddene, ansjosfiletene, kapers og chiliflak. Stek under omrøring i 3–5 minutter til hvitløken er gyllen i kantene og ansjosen har løst seg opp."},
+        {"instruction": "Legg i kyllinglårene og stek til de er pent brunet på undersiden, 5–7 minutter. Snu dem, sett pannen i ovnen og stek videre 5–10 minutter til gjennomstekt."},
+        {"instruction": "Ta kyllingen ut og legg på et fat. Sett pannen tilbake på varmen og tilsett det finhakkede hvitløksfeddet og saften av en halv sitron. Kok i ca. 30 sekunder og skrap opp de brune bitene."},
+        {"instruction": "Legg kyllingen tilbake og vend i sausen 15–30 sekunder. Overfør til serveringsfat, press over resten av sitronen og dryss med persille."}
+      ],
+      "notes": "Rask hverdagsrett. Bak betalingsmur på NYT Cooking."
+    },
+    "2026-04-29": {
+      "name": "Red Lentil Soup",
+      "cuisine": "other",
+      "time_min": 45,
+      "rating": null,
+      "source": "NYT Cooking, by Melissa Clark",
+      "source_url": null,
+      "ingredients": [
+        {"name": "olivenolje", "quantity": "3", "unit": "ss"},
+        {"name": "løk", "quantity": "1", "unit": "stk"},
+        {"name": "hvitløk", "quantity": "2", "unit": "fedd"},
+        {"name": "tomatpuré", "quantity": "1", "unit": "ss"},
+        {"name": "spisskummen", "quantity": "1", "unit": "ts"},
+        {"name": "chilipulver eller cayennepepper", "quantity": "1", "unit": "klype"},
+        {"name": "kylling- eller grønnsakskraft", "quantity": "950", "unit": "ml"},
+        {"name": "røde linser", "quantity": "200", "unit": "g"},
+        {"name": "gulrot", "quantity": "1", "unit": "stk"},
+        {"name": "sitron", "quantity": "0.5", "unit": "stk"},
+        {"name": "fersk koriander", "quantity": "3", "unit": "ss"}
+      ],
+      "steps": [
+        {"instruction": "Varm oljen i en stor gryte på høy varme til den er skimrende. Tilsett løk og hvitløk og stek til gyllenbrunt, ca. 4 minutter."},
+        {"instruction": "Rør inn tomatpuré, spisskummen, ¼ ts salt, ¼ ts pepper og chilipulveret. Stek videre i 2 minutter."},
+        {"instruction": "Hell i kraft, 500 ml vann, linsene og gulrot i terninger. Kok opp, legg lokket på halv gjenge og skru ned til middels lav varme. La småkoke til linsene er myke, ca. 30 minutter."},
+        {"instruction": "Blend halvparten av suppen med stavmikser og rør tilbake. Suppen skal være delvis jevn men ha litt tekstur."},
+        {"instruction": "Varm opp om nødvendig. Rør inn sitronsaft og koriander. Server med en skvett god olivenolje og et dryss chilipulver."}
+      ],
+      "notes": "Ukens suppe. Bak betalingsmur på NYT Cooking."
+    },
+    "2026-04-30": {
+      "name": "One-Pan Roasted Fish With Cherry Tomatoes",
+      "cuisine": "other",
+      "time_min": 30,
+      "rating": null,
+      "source": "NYT Cooking, by Lidey Heuck",
+      "source_url": null,
+      "ingredients": [
+        {"name": "kirsebærtomater, halvert", "quantity": "450", "unit": "g"},
+        {"name": "sjalottløk, tynt skivet", "quantity": "120", "unit": "ml"},
+        {"name": "hvitløk, finhakket", "quantity": "2", "unit": "fedd"},
+        {"name": "olivenolje", "quantity": "2", "unit": "ss"},
+        {"name": "sherryeddik eller rødvinseddik", "quantity": "1", "unit": "ss"},
+        {"name": "honning", "quantity": "1", "unit": "ts"},
+        {"name": "hvit fisk med skinn (torsk eller kveite)", "quantity": "4", "unit": "fileter à 170g"},
+        {"name": "sitronskall, fintrevet", "quantity": "1", "unit": "ts"},
+        {"name": "fersk basilikum, grovhakket", "quantity": "til servering", "unit": null},
+        {"name": "fersk mynte, grovhakket", "quantity": "til servering", "unit": null}
+      ],
+      "steps": [
+        {"instruction": "Sett ovnen på 200°C. Legg tomater, sjalottløk og hvitløk i en ildfast form (ca. 20x30 cm). Pisk sammen olivenolje, eddik, honning, salt og pepper og hell over grønnsakene. Vend godt. Stek til tomatene har falt sammen og sjalottløken er myk, ca. 15 minutter."},
+        {"instruction": "Mens tomatene steker: tørk fisken godt med kjøkkenpapir, pensle med olivenolje på alle sider og krydre raust med salt og pepper."},
+        {"instruction": "Vend tomatene og skyv dem til sidene av formen. Legg fiskefiletene midt i med jevn avstand. Stek til fisken er gjennomstekt og flaker lett med en gaffel, 10–12 minutter."},
+        {"instruction": "Dryss sitronskall, basilikum og mynte over hele formen. Server fisken med tomatene og hell over eventuelle krafter fra formen."}
+      ],
+      "notes": "Alt stekes i samme form. Bak betalingsmur på NYT Cooking."
+    },
+    "2026-05-01": {
+      "name": "Stewed Greens and Chickpeas With Toasted Garlic and Lemon",
+      "cuisine": "other",
+      "time_min": 35,
+      "rating": null,
+      "source": "NYT Cooking, by Yotam Ottolenghi",
+      "source_url": null,
+      "ingredients": [
+        {"name": "olivenolje", "quantity": "125", "unit": "ml"},
+        {"name": "gul løk, finhakket", "quantity": "2", "unit": "stk"},
+        {"name": "fennikkelfrø, lett knust", "quantity": "2", "unit": "ts"},
+        {"name": "chiliflak", "quantity": "0.5", "unit": "ts"},
+        {"name": "fersk oregano", "quantity": "15", "unit": "g"},
+        {"name": "mangold, stilker og blader i biter", "quantity": "400", "unit": "g"},
+        {"name": "liten pasta (stelline eller pepe bucato)", "quantity": "200", "unit": "g"},
+        {"name": "kikerter (eller cannellini), med lake", "quantity": "1", "unit": "boks"},
+        {"name": "kylling- eller grønnsakskraft", "quantity": "950", "unit": "ml"},
+        {"name": "fersk persille, grovhakket", "quantity": "40", "unit": "g"},
+        {"name": "hvitløk (1 fedd finhakket, 5 fedd tynt skivet)", "quantity": "6", "unit": "fedd"},
+        {"name": "sitron", "quantity": "1", "unit": "stk"},
+        {"name": "rømme", "quantity": "240", "unit": "ml"}
+      ],
+      "steps": [
+        {"instruction": "Ha 80 ml olje, løk, fennikkelfrø, chiliflak, halvparten av oreganoen, 1 ts salt og godt med pepper i en stor gryte på middels høy varme. Stek ca. 10 minutter under jevnlig omrøring til løken er myk og gyllenbrun."},
+        {"instruction": "Tilsett mangold, pasta, kikerter med lake, kraft, 60 ml vann og 1 ts salt. Kok opp, skru ned til middels lav varme og la småkoke tildekket ca. 10 minutter til pastaen er kokt. Rør inn persille, det finhakkede hvitløksfeddet og revet sitronskall."},
+        {"instruction": "Varm de resterende 45 ml olje i en liten kasserolle på middels varme. Tilsett resten av oreganoen og de tynt skivede hvitløksfeddene. Stek i 3–5 minutter under omrøring til hvitløken er lett gyllen."},
+        {"instruction": "Fordel gryta i skåler. Topp med en skje rømme, hvitløksoljen og en god skvett sitronsaft."}
+      ],
+      "notes": "Fredag 1. mai — arbeidernes dag. Bak betalingsmur på NYT Cooking."
     }
   }
 }
